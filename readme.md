@@ -88,7 +88,6 @@ EvidenceGuard/
 ├── icon.png
 ├── logo.png
 ├── README.md
-└── requirements.txt
 ```
 
 ---
